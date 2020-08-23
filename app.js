@@ -1,4 +1,4 @@
-particlesJS('particles-js',
+/*particlesJS('particles-js',
 {
   "particles": {
     "number": {
@@ -9,7 +9,7 @@ particlesJS('particles-js',
       }
     },
     "color": {
-      "value": "#ff3232"
+      "value": "#1335"+String(Math.floor(Math.random() * 90) + 50  )
     },
     "shape": {
       "type": "circle",
@@ -110,4 +110,4 @@ particlesJS('particles-js',
   "retina_detect": true
 }
 
-);
+);*/
